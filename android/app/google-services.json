@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "28553710265",
+    "firebase_url": "https://flash-chat-9aca7.firebaseio.com",
+    "project_id": "flash-chat-9aca7",
+    "storage_bucket": "flash-chat-9aca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28553710265:android:ee09164fe52e5d48d42968",
+        "android_client_info": {
+          "package_name": "com.kterrago.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28553710265-vo2jcjbbvst9ubqqdcdrudthrs8dbsa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8O7_ElttgnnbsxB4MAeCTqCexQaik90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28553710265-vo2jcjbbvst9ubqqdcdrudthrs8dbsa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
